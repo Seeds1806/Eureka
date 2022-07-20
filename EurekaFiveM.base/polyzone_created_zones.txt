@@ -1,0 +1,27 @@
+--Name: Stash | 2022-07-19T20:39:34Z
+BoxZone:Create(vector3(299.03, -1074.68, 0.46), 1.2, 0.8, {
+  name="Stash",
+  heading=0,
+  --debugPoly=true,
+  minZ=-3.94,
+  maxZ=0.06
+})
+
+--Name: Changes Clothes | 2022-07-19T22:07:45Z
+BoxZone:Create(vector3(297.49, -1068.64, 0.46), 0.8, 1.4, {
+  name="Changes Clothes",
+  heading=0,
+  --debugPoly=true,
+  minZ=-2.14,
+  maxZ=1.86
+})
+
+--Name: log out | 2022-07-20T00:01:55Z
+BoxZone:Create(vector3(295.23, -1072.1, 0.46), 1.2, 0.8, {
+  name="log out",
+  heading=0,
+  --debugPoly=true,
+  minZ=-3.54,
+  maxZ=0.46
+})
+
